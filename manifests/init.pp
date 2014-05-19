@@ -7,6 +7,6 @@
 class undercover {
   package { 'Undercover':
     provider => 'pkgdmg',
-    source   => 'http://assets.undercoverhq.com/client/5.6/undercover_mac.pkg'
+    source   => 'http://assets.undercoverhq.com/client/6.0/undercover_mac.pkg'
   }
 }
