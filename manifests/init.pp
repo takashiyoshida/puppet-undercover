@@ -9,6 +9,6 @@ class undercover (
   package { 'Undercover':
     ensure   => installed,
     provider => 'pkgdmg',
-    source   => 'http://assets.undercoverhq.com/client/${version}/undercover_mac.pkg'
+    source   => "http://assets.undercoverhq.com/client/${version}/undercover_mac.pkg"
   }
 }
