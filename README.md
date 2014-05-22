@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Undercover Puppet Module for Boxen
 [![Build Status](https://travis-ci.org/boxen/puppet-undercover.png?branch=master)](https://travis-ci.org/boxen/puppet-undercover)
 
@@ -9,7 +10,8 @@ include undercover
 
 ## Required Puppet Modules
 
-None.
+* `boxen`
+* `stdlib`
 
 ## Developing
 

@@ -3,7 +3,6 @@
 # Example
 #
 #   include undercover
-
 class undercover {
   package { 'Undercover':
     provider => 'pkgdmg',
